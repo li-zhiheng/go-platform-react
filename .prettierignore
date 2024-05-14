@@ -1,0 +1,12 @@
+README.md
+ReaderMe.mk
+package.json
+pnpm-lock.yaml
+.env.*
+/dist/*
+.local
+.output.js
+/node_modules/**
+/public/*
+**/*.svg
+**/*.sh
